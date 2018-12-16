@@ -1,5 +1,5 @@
 '''
-    This code explains how to mount google drive in google colab session.
+    This code explains how to mount google drive in google colab session
     After mounting we can read data from the google drive directly and use it in the colab session
 '''
 
